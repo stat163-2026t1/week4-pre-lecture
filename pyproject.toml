@@ -1,0 +1,10 @@
+[project]
+name = "stat163-2026t1-week4-pre-lecture"
+version = "0.1.0"
+description = "STAT163 Week 4 pre-lecture notebook — text into columns"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.0",
+    "numpy",
+    "jupyterlab>=4.0",
+]
